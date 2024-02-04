@@ -1,4 +1,4 @@
-<img src="https://github.com/23W-GBAC/Johnbaby.github/blob/3d7e3d56f2c83600534627ac208630bf385586fd/AI%20Vehicles.jpg>
+![image](https://github.com/23W-GBAC/Johnbaby.github/blob/3d7e3d56f2c83600534627ac208630bf385586fd/AI%20Vehicles.jpg)
 
 # Harvesting Innovation: Exploring the Transformative Uses of AI in Agriculture
 
