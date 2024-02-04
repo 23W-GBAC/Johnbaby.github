@@ -1,3 +1,5 @@
+<img src="https://github.com/23W-GBAC/Johnbaby.github/blob/3d7e3d56f2c83600534627ac208630bf385586fd/AI%20Vehicles.jpg>
+
 # Harvesting Innovation: Exploring the Transformative Uses of AI in Agriculture
 
 In the vast fields of innovation,Artificial Intelligence(AI)has emerged as a revolutionary force transforming the landscape of agriculture. As we stand at the intersection of innovation and cultivation, the integration of Artificial Intelligence (AI) into the age-old practice of farming is proving to be a game-changer for the future of food production.
