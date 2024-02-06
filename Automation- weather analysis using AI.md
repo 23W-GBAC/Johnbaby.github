@@ -1,9 +1,9 @@
 # Week 1: Setting Up API Integration
 **Tasks:**
 
-**1.API Key Setup:** Register for an API key on the OpenWeatherMap website.
-**2.Install Requests Library:** Use pip to install the Requests library (pip install requests).
-**3.Implement API Functionality:** Write a function to fetch weather data using the OpenWeatherMap API.
+**API Key Setup:** Register for an API key on the OpenWeatherMap website.
+**Install Requests Library:** Use pip to install the Requests library (pip install requests).
+**Implement API Functionality:** Write a function to fetch weather data using the OpenWeatherMap API.
 
 In the first week, I focused on setting up the API integration to retrieve weather data. After registering for an API key on the OpenWeatherMap website, I installed the Requests library using pip. With the library in place, I implemented functionality to fetch weather data using the OpenWeatherMap API. This involved defining a function get_weather that constructed the API URL with the provided API key and city, made a request to the API, and returned the JSON response containing the weather data. I tested this functionality in a main block to ensure it worked correctly.
 ```
@@ -25,8 +25,8 @@ if __name__ == "__main__":
 # Week 2: Weather Analysis and Basic Suggestions
 **Tasks:**
 
-**1.Extract Weather Parameters:** Extract relevant weather parameters such as temperature and weather description.
-**2.Implement Basic Suggestions:** Write logic to suggest actions based on weather conditions.
+**Extract Weather Parameters:** Extract relevant weather parameters such as temperature and weather description.
+**Implement Basic Suggestions:** Write logic to suggest actions based on weather conditions.
 
 During the second week, I analyzed the fetched weather data and provided basic suggestions based on the weather conditions. I extracted relevant parameters such as temperature and weather description from the fetched data. Then, I implemented basic suggestion logic in a function suggest_actions, which considered different weather conditions such as rain, snow, high temperature, and low temperature, and provided corresponding suggestions for agricultural activities. This included suggestions like delaying outdoor activities during rain, ensuring protection for crops and livestock during extreme temperatures, and more. I integrated this suggestion logic with the weather fetching functionality from the previous week.
 ```
@@ -56,9 +56,9 @@ if __name__ == "__main__":
 # Week 3: Refinement and Testing
 **Tasks:**
 
-**1.Code Refinement:** Review and refactor code for clarity and efficiency.
-**2.Error Handling:** Implement error handling to manage cases where the API request fails or returns unexpected data.
-**3.Testing:** Test the script with different cities and weather conditions to ensure it provides accurate suggestions.
+**Code Refinement:** Review and refactor code for clarity and efficiency.
+**Error Handling:** Implement error handling to manage cases where the API request fails or returns unexpected data.
+**Testing:** Test the script with different cities and weather conditions to ensure it provides accurate suggestions.
 
 In the third week of development, I focused on refining and testing the weather analysis script to ensure its reliability and robustness. The main objective was to enhance the code quality, improve error handling, and conduct thorough testing across various scenarios. This involved reviewing the code for clarity and efficiency, refactoring where necessary, and implementing comprehensive error handling mechanisms to gracefully manage cases where the API request fails or returns unexpected data. Additionally, extensive testing was performed to validate the functionality of the script under different weather conditions and for various cities. By dedicating this week to refinement and testing, I aimed to ensure that the weather analysis script meets high standards of performance, accuracy, and usability, laying a solid foundation for its deployment and future maintenance.
 
