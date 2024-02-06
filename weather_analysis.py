@@ -29,8 +29,8 @@ def suggest_actions(weather_data):
 
 
 if __name__ == "__main__":
-    api_key = "427b6a86cbe544500605b187b15f6242"
-    city = "PFARRKIRCHEN"
+    api_key = "YOUR_OPENWEATHERMAP_API_KEY"
+    city = "YOUR_CITY_NAME"
 
 
     weather_data = get_weather(api_key, city)
