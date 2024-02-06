@@ -1,3 +1,6 @@
+# Weather analysis and Decision support system powered by Artificial Intelligence (AI).
+In my automation project, I am developing a weather analysis tool using Python to assist in agricultural decision-making processes. The goal of this project is to leverage AI technology to provide real-time weather data and actionable insights, enabling farmers and agricultural stakeholders to make informed decisions regarding crop management, irrigation scheduling, and livestock care. By automating the analysis of weather conditions, I aim to optimize agricultural practices, increase productivity, and mitigate risks associated with adverse weather events, ultimately contributing to sustainable farming practices and food security.
+
 # Week 1: Setting Up API Integration
 **Tasks:**
 
