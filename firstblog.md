@@ -1,7 +1,7 @@
 # AI-powered Precision Farming: A Sustainable Revolution
 ![image](https://github.com/23W-GBAC/Johnbaby.github/blob/ac4b1d318811d8aa6a2050c7a43134dd320f31e3/AI%20in%20Agriculture.jpg)
 
-## Introduction
+## Introduction 
 In the vast expanse of agriculture, a transformative wave is sweeping across fields and plantations — the advent of AI-powered precision farming. This sustainable revolution is reshaping traditional agricultural practices, leveraging artificial intelligence to enhance efficiency, optimize resources, and contribute to a more sustainable future.
 
 ## Understanding Precision Farming
