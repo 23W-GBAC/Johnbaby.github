@@ -27,7 +27,7 @@ if __name__ == "__main__":
 **2.Implement Basic Suggestions:** Write logic to suggest actions based on weather conditions.
 
 During the second week, I analyzed the fetched weather data and provided basic suggestions based on the weather conditions. I extracted relevant parameters such as temperature and weather description from the fetched data. Then, I implemented basic suggestion logic in a function suggest_actions, which considered different weather conditions such as rain, snow, high temperature, and low temperature, and provided corresponding suggestions for agricultural activities. This included suggestions like delaying outdoor activities during rain, ensuring protection for crops and livestock during extreme temperatures, and more. I integrated this suggestion logic with the weather fetching functionality from the previous week.
-
+```
 def suggest_actions(weather_data):
     temperature = weather_data['main']['temp']
     weather_description = weather_data['weather'][0]['description']
@@ -50,7 +50,7 @@ if __name__ == "__main__":
     weather_data = get_weather(api_key, city)
     suggested_actions = suggest_actions(weather_data)
     print("Suggested actions:", suggested_actions)
-
+```
 # Week 3: Refinement and Testing
 **Tasks:**
 
@@ -62,7 +62,7 @@ In the third week of development, I focused on refining and testing the weather 
 
 # Week 4: Final script with comments
 In the fourth week of development, I dedicated my efforts to enhancing the maintainability and readability of the weather analysis script by adding comprehensive comments throughout the codebase. These comments serve as inline documentation, providing insights into the purpose and functionality of each component, function, and significant code block. By meticulously annotating the code, I aimed to facilitate easier understanding for myself and any future contributors who may work on the project. Each comment was carefully crafted to provide clarity and context, explaining the logic, algorithms, and data structures utilized within the script. Furthermore, I ensured consistency in the style and format of the comments, adhering to industry best practices and conventions. By completing this task, I improved the overall quality of the codebase, making it more accessible and maintainable for solo development and potential collaboration in the future.
-
+```
 import requests
 
     # Function to fetch weather data from OpenWeatherMap API
@@ -101,7 +101,7 @@ if __name__ == "__main__":
     # Suggest actions based on weather conditions
     suggested_actions = suggest_actions(weather_data)
     print("Suggested actions:", suggested_actions)
-
+```
 
 
 
