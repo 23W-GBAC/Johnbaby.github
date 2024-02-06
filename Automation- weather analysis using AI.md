@@ -65,14 +65,14 @@ In the fourth week of development, I dedicated my efforts to enhancing the maint
 
 import requests
 
- #Function to fetch weather data from OpenWeatherMap API
+    # Function to fetch weather data from OpenWeatherMap API
 def get_weather(api_key, city):
     url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric"
     response = requests.get(url)
     data = response.json()
     return data
 
- #Function to suggest actions based on weather conditions
+    # Function to suggest actions based on weather conditions
 def suggest_actions(weather_data):
     temperature = weather_data['main']['temp']
     weather_description = weather_data['weather'][0]['description']
@@ -89,7 +89,7 @@ def suggest_actions(weather_data):
     else:
         return "Weather conditions are favorable. No specific actions needed."
 
- #Main code block
+    # Main code block
 if __name__ == "__main__":
     api_key = "YOUR_OPENWEATHERMAP_API_KEY"  # Replace with your API key
     city = "YOUR_CITY_NAME"  # Replace with your city name
