@@ -1,5 +1,6 @@
 # Week 1: Setting Up API Integration
 **Tasks:**
+
 **1.API Key Setup:** Register for an API key on the OpenWeatherMap website.
 **2.Install Requests Library:** Use pip to install the Requests library (pip install requests).
 **3.Implement API Functionality:** Write a function to fetch weather data using the OpenWeatherMap API.
@@ -23,6 +24,7 @@ if __name__ == "__main__":
 ```
 # Week 2: Weather Analysis and Basic Suggestions
 **Tasks:**
+
 **1.Extract Weather Parameters:** Extract relevant weather parameters such as temperature and weather description.
 **2.Implement Basic Suggestions:** Write logic to suggest actions based on weather conditions.
 
