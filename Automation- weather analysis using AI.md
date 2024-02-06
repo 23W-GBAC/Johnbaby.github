@@ -61,6 +61,7 @@ if __name__ == "__main__":
 **Testing:** Test the script with different cities and weather conditions to ensure it provides accurate suggestions.
 
 In the third week of development, I focused on refining and testing the weather analysis script to ensure its reliability and robustness. The main objective was to enhance the code quality, improve error handling, and conduct thorough testing across various scenarios. This involved reviewing the code for clarity and efficiency, refactoring where necessary, and implementing comprehensive error handling mechanisms to gracefully manage cases where the API request fails or returns unexpected data. Additionally, extensive testing was performed to validate the functionality of the script under different weather conditions and for various cities.For testing the code i used Pycharm IDE. By dedicating this week to refinement and testing, I aimed to ensure that the weather analysis script meets high standards of performance, accuracy, and usability, laying a solid foundation for its deployment and future maintenance.
+![image](https://github.com/23W-GBAC/Johnbaby.github/blob/4e8a04fa92e7fc6d49b968524c30027b3796ad35/Screenshot%202024-02-06%20232748.png)
 
 
 # Week 4: Final script with comments
