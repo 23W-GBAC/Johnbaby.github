@@ -5,7 +5,7 @@
 **3.Implement API Functionality:** Write a function to fetch weather data using the OpenWeatherMap API.
 
 In the first week, I focused on setting up the API integration to retrieve weather data. After registering for an API key on the OpenWeatherMap website, I installed the Requests library using pip. With the library in place, I implemented functionality to fetch weather data using the OpenWeatherMap API. This involved defining a function get_weather that constructed the API URL with the provided API key and city, made a request to the API, and returned the JSON response containing the weather data. I tested this functionality in a main block to ensure it worked correctly.
-
+```
 import requests
 
 def get_weather(api_key, city):
@@ -20,7 +20,7 @@ if __name__ == "__main__":
     
     weather_data = get_weather(api_key, city)
     print("Weather data:", weather_data)
-
+```
 # Week 2: Weather Analysis and Basic Suggestions
 **Tasks:**
 **1.Extract Weather Parameters:** Extract relevant weather parameters such as temperature and weather description.
