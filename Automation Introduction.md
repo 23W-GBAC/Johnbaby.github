@@ -37,7 +37,7 @@ Agriculture plays a pivotal role in global food production and sustenance, yet i
    AI algorithms, including machine learning and deep learning models, are developed to analyze historical weather data, identify patterns, and generate predictive insights. These algorithms leverage advanced statistical techniques to forecast weather conditions, assess risk factors, and recommend optimal strategies for agricultural management.
 
  **User Interface Design:**
-   An intuitive and user-friendly interface is designed to visualize weather forecasts, trends, and recommended actions in a clear and understandable format. The interface may include interactive dashboards, charts, maps, and alerts to facilitate decision-making and promote user engagement.
+   An intuitive and user-friendly interface is designed to visualize weather forecasts, trends, and recommended actions in a clear and understandable format.
 
 ## Potential Impact
 
