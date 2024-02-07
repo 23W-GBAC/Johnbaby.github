@@ -61,4 +61,6 @@ From precision farming to crop monitoring, AI is revolutionizing the way we appr
 
 In the ever-evolving saga of agriculture, AI is not just a tool; it is a catalyst for change, a beacon guiding us towards a future where farming is not just a livelihood but a stewardship of the planet's well-being. As we cultivate tomorrow's harvest, let us continue to nurture the seeds of innovation, embracing the transformative power of AI in agriculture with open minds and fertile hearts.
 
+## [Fisrt Blog](https://github.com/23W-GBAC/Johnbaby.github/blob/51a54c3786a860807b108032290474c6146df2cb/firstblog.md)
+
 **sources:** Chatgpt, pictures generated using Bing-copilot
